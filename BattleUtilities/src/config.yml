@@ -1,0 +1,44 @@
+#
+# > BattleUtilities
+# > Feito pela equipe BattleHost.
+# > www.battlehost.com.br
+#
+
+Mensagens:
+   SemPermissao: '&7Desculpe, mas você não tem &epermissão &7para isso.'
+   ExecutadoConsole: '&a&lEPA!&a Você não pode executar este comando pelo console!'
+   JogadorOffline: '&c* &7O jogador mencionado não foi encontrado!'
+   
+Sintaxes:
+   StaffChat: '&e* &7Voce usou de maneira incorreta, por favor use: &e/sc (mensagem)'
+   Invsee: '&e* &7Digite &e/invsee (Nick do Jogador)&7.'
+   Pvp: '&e* &7Olá, digite /pvp &aon&7 (para habilitar o pvp) ou /pvp &coff&7 (para desabilitar o pvp).'
+   Gamemode: '&e* &7Utilize /gm &a1&7 para ir ao modo criativo ou /gm &a0&7 para ir ao modo sobrevivência.'
+   Tell: '&e*&7 Utilize /tell &a<&8jogador&a> <&8mensagem&a>&7.'  
+   
+Gerais:
+   MortoPorAdmin: '&cVocê foi morto por um administrador.'
+   SeMatou: '&a* &7Você se matou, nada foi retirado de sua conta.'
+   MatouJogador: '&c* &7Você matou o jogador&a <morto> &7.'
+   TeleportouSpawn: '&7Você foi teleportado até o &eSPAWN&7.'
+   TempoAlterado: '&e* &7Você alterou o tempo/clima.'
+   AbriuInventario: '&e* &7Você abriu o inventário de <jogador> .'
+   VoarAtivado: '&e* &7Você ativou o modo VOAR.'
+   VoarDesativado: '&e* &7Você desativou o modo VOAR.'
+   ChatLimpo: '&e* &7Chat limpo.'
+   Formulario: '&e* &7Sem vagas na equipe!'
+   PvpAtivado: '&e*&7 O PvP foi ativado!'
+   PvpDesativado: '&e* &7O PvP foi desativado!'
+   AbriuEchest: '&e* &7Você abriu seu ender chest!'
+   
+Gamemodes:
+   Survival: '&e* &7Você alterou seu gamemode para sobrevivência!'
+   Creative: '&e* &7Você alterou seu gamemode para criativo!'   
+   
+Outros:
+   Prefix: '&e&lSEUSERVIDOR'
+   NomeMundo: 'Lobby'
+   
+Variaveis:
+   JoinMessage: true
+   QuitMessage: true           

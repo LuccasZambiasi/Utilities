@@ -1,0 +1,22 @@
+name: BattleHostUtilidades
+description: Plugin de Utilidades feito pela BattleHost!
+main: br.com.battlehost.utilities.Main
+version: 1.0
+authors: [LuccasZambiasi]
+commands:
+   chuva:
+   tarde:
+   dia:
+   invsee:
+   spawn:
+   matar:
+   voar:
+   clearchat:
+   morrer:
+   creditos:
+   aplicar:
+   pvp:
+   gm:
+   tell:
+   sc:
+   echest:
